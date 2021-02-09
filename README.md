@@ -1,3 +1,3 @@
 # Excursion
 
-Codecademy Website Build Project
+Codecademy Website Building Project
